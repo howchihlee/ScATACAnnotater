@@ -4,7 +4,7 @@
 
 ### tl;dr:  generate this figure for ATAC-seq data in a few minutes
 
-![GSE97887_brain.jpg](./figs/GSE97887_brain.jpg.png)
+![GSE97887_brain.jpg](./figs/GSE97887_brain.jpg)
 
 ## This repo includes
 
