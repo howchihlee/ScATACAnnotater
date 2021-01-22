@@ -27,21 +27,21 @@ Command line usage
                     count_input ref_folder
 
   positional arguments:
-    count_input           path to 10x input folder
-    ref_folder            path to a folder of cell type specific peaks
+    * count_input           path to 10x input folder
+    * ref_folder            path to a folder of cell type specific peaks
 
   optional arguments:
-    -h, --help            show this help message and exit
-    -o OUTPUT, --output OUTPUT
+    * -h, --help            show this help message and exit
+    * -o OUTPUT, --output OUTPUT
                           name of the output file
-    -t THRESHOLD, --threshold THRESHOLD
+    * -t THRESHOLD, --threshold THRESHOLD
                           threshold to compute bed overlap. a float number ranges from 0 - 1.
-    --cpu CPU             number of cpus
-    --verbose             flag to print messages
-    --umap_fig            flag to skip ploting umap
-    -u UMAP_INPUT, --umap_input UMAP_INPUT
+    * --cpu CPU             number of cpus
+    * --verbose             flag to print messages
+    * --umap_fig            flag to skip ploting umap
+    * -u UMAP_INPUT, --umap_input UMAP_INPUT
                           path to a csv file of umap coordinates (cell x 2). The file should have an index column of cell barcodes
-    -f OUTPUT_FIG, --output_fig OUTPUT_FIG
+    * -f OUTPUT_FIG, --output_fig OUTPUT_FIG
                           name of the output png figure
 
 - Example:
