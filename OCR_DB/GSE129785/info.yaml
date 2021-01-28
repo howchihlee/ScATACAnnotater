@@ -1,0 +1,34 @@
+background: background.bed.gz
+cell_type:
+  Basophil: Basophil.bed.gz
+  CLP: CLP.bed.gz
+  CMP_BMP: CMP_BMP.bed.gz
+  Central_memory_CD8_T: Central_memory_CD8_T.bed.gz
+  Effector_memory_CD8_T: Effector_memory_CD8_T.bed.gz
+  GMP: GMP.bed.gz
+  Gamma_delta_T: Gamma_delta_T.bed.gz
+  HSC_MPP: HSC_MPP.bed.gz
+  Immature_NK: Immature_NK.bed.gz
+  LMPP: LMPP.bed.gz
+  MDP: MDP.bed.gz
+  MEP: MEP.bed.gz
+  Mature_NK1: Mature_NK1.bed.gz
+  Mature_NK2: Mature_NK2.bed.gz
+  Memory_B: Memory_B.bed.gz
+  Memory_CD4_T: Memory_CD4_T.bed.gz
+  Monocyte_1: Monocyte_1.bed.gz
+  Monocyte_2: Monocyte_2.bed.gz
+  Naive_B: Naive_B.bed.gz
+  Naive_CD4_T1: Naive_CD4_T1.bed.gz
+  Naive_CD4_T2: Naive_CD4_T2.bed.gz
+  Naive_CD8_T1: Naive_CD8_T1.bed.gz
+  Naive_CD8_T2: Naive_CD8_T2.bed.gz
+  Naive_CD8_T3: Naive_CD8_T3.bed.gz
+  Naive_Treg: Naive_Treg.bed.gz
+  Plasma_cell: Plasma_cell.bed.gz
+  Pre-B: Pre-B.bed.gz
+  Pro-B: Pro-B.bed.gz
+  Treg: Treg.bed.gz
+  cDC: cDC.bed.gz
+  pDC: pDC.bed.gz
+tissue: pbmc

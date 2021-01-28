@@ -1,0 +1,10 @@
+background: background.bed.gz
+cell_type:
+  Ast: Ast.diffPeaks.bed.gz
+  End: End.diffPeaks.bed.gz
+  Ex: Ex.diffPeaks.bed.gz
+  In: In.diffPeaks.bed.gz
+  Mic: Mic.diffPeaks.bed.gz
+  Oli: Oli.diffPeaks.bed.gz
+  Opc: Opc.diffPeaks.bed.gz
+tissue: brain
