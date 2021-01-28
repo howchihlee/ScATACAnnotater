@@ -1,0 +1,24 @@
+background: background.bed.gz
+cell_type:
+  Astrocytes-1: Cluster13.bed.gz
+  Astrocytes-2: Cluster17.bed.gz
+  Hippocampal excitatory-1: Cluster3.bed.gz
+  Hippocampal excitatory-2: Cluster4.bed.gz
+  Isocortical Astrocytes: Cluster15.bed.gz
+  Isocortical excitatory: Cluster1.bed.gz
+  Isocortical inhibitory: Cluster11.bed.gz
+  Microglia: Cluster24.bed.gz
+  Nigral Astrocytes: Cluster14.bed.gz
+  Nigral OPCs: Cluster10.bed.gz
+  Nigral cells: Cluster6.bed.gz
+  Nigral neurons: Cluster5.bed.gz
+  OPCs-1: Cluster8.bed.gz
+  OPCs-2: Cluster9.bed.gz
+  Olidendrocytes-1: Cluster19.bed.gz
+  Olidendrocytes-2: Cluster20.bed.gz
+  Olidendrocytes-3: Cluster21.bed.gz
+  Olidendrocytes-4: Cluster22.bed.gz
+  Olidendrocytes-5: Cluster23.bed.gz
+  Striatal Astrocytes: Cluster16.bed.gz
+  Striatal inhibitory: Cluster12.bed.gz
+tissue: brain

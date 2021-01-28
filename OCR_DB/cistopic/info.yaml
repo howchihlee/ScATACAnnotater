@@ -1,0 +1,9 @@
+background: background.bed.gz
+cell_type:
+  Bcell: Bcell.bed.gz
+  CD34-Bone-Marrow: CD34-Bone-Marrow.bed.gz
+  CD34-Cord-Blood: CD34-Cord-Blood.bed.gz
+  CD4Tcell: CD4Tcell.bed.gz
+  CD8Tcell: CD8Tcell.bed.gz
+  Mono: Mono.bed.gz
+  NKcell: NKcell.bed.gz
