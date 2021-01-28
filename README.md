@@ -54,5 +54,3 @@ Command line usage
     ```
 
     A file (score.csv) and png figure (score.png) will be outputted.
-
-License
