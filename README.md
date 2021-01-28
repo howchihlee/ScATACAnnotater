@@ -1,5 +1,4 @@
-# <span style="color:RoyalBlue ">C</span>ell-type  <span style="color:RoyalBlue">a</span>nnot<span style="color:RoyalBlue">a</span>tion with sc<span style="color:RoyalBlue">A</span><span style="color:RoyalBlue">T</span>AC-seq: <span style="color:RoyalBlue">Caaat</span>:scream_cat::scream_cat::scream_cat:
-
+![title](./figs/title.png)
 ## A reference based cell type annotation tool for single cell ATAC-seq data
 
 ### tl;dr:  generate this figure for ATAC-seq data in a few minutes
