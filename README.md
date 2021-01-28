@@ -50,7 +50,7 @@ Command line usage
   - To generate the cover figure, run
 
     ```bash
-    python src/cli_run.py case_study/brain_atac/filtered_peak_bc_matrix/ OCR_DB/dev/GSE129785/ --cpu 10
+    python src/cli_run.py case_study/brain_atac/filtered_peak_bc_matrix/ OCR_DB/GSE97887/ --cpu 10
     ```
 
     A file (score.csv) and png figure (score.png) will be outputted.
