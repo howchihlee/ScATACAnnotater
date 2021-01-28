@@ -9,8 +9,9 @@
 ## This repo includes
 
 Efficient implementation of an cell type annotation method
-* support multi-core processing
-* support spare matrix to save memory
+* :zap: support multi-core processing
+* :zap: support spare matrix to save memory
+* :zap: pure python
 
 Collection of cell type specific open chromatin regions to use
 
