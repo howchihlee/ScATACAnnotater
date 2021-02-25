@@ -1,6 +1,7 @@
 ![title](./figs/title.png)
-## A reference based cell type annotation tool for single cell ATAC-seq data
+in memory of Blimey [the faaaat caaaaat](./figs/fatcat.jpg)
 
+## A reference based cell type annotation tool for single cell ATAC-seq data
 ### tl;dr:  generate this figure for ATAC-seq data in a few minutes
 
 ![GSE97887_brain.jpg](./figs/GSE97887_brain.jpg)
