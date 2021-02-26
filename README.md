@@ -1,5 +1,5 @@
 ![title](./figs/title.png)
-in memory of Blimey [the faaaat caaaaat](./figs/fatcat.jpg)
+
 
 ## A reference based cell type annotation tool for single cell ATAC-seq data
 ### tl;dr:  generate this figure for ATAC-seq data in a few minutes
@@ -54,3 +54,7 @@ Command line usage
     ```
 
     A file (score.csv) and png figure (score.png) will be outputted.
+    
+In memory of Blimey the faaaat caaaaat
+![fatcat](./figs/fatcat.jpg)
+
